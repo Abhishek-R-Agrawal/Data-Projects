@@ -1,0 +1,22 @@
+## Requirements
+
+### Software and Tools
+- **Google Sheets**: To access and manipulate the dataset, as well as to utilize provided visualizations and insights.
+- **Google Docs**: For drafting and submitting the final report in the required format.
+- **Microsoft Excel**: Optional, if prefered for more advanced data analysis tasks.
+
+### Data Access
+- Ensure access to the dataset provided in the `nyc_airbnb_data.xlsx` and other relevant visual materials needed for analysis.
+
+### Skills
+- **Basic Business Intelligence Knowledge**: Understand the fundamentals of data analysis and business intelligence.
+- **Analytical Skills**: Ability to interpret data and extract meaningful insights.
+- **Report Writing**: Proficiency in summarizing findings and formulating actionable recommendations in a clear, professional report format.
+
+### Permissions
+- **Google Drive Access**: Required for making copies of the project files and templates.
+- **Internet Access**: Necessary for accessing cloud-based tools and resources.
+
+### Collaborative Tools
+- **Discord**: For communication with tutors and peers for guidance and feedback.
+
