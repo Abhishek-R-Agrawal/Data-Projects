@@ -1,0 +1,26 @@
+## Project Requirements
+
+### Software and Tools
+- **SQL Database Access**: Ability to connect to and query a SQL database, as the project involves complex SQL queries for data extraction and analysis.
+- **SQL Client or Interface**: Use of a SQL client or an integrated development environment (IDE) like DBeaver, pgAdmin, or a similar tool to run SQL queries.
+- **Python (optional)**: For additional data analysis and visualization, Python along with libraries like pandas and matplotlib could be used.
+
+### Data Access
+- Ensure access to the provided database containing the tables for neighborhoods, cabs, trips, and weather_records essential for the analysis.
+
+### Technical Skills
+- **Advanced SQL Knowledge**: Proficient in writing complex SQL queries, including joins, subqueries, CASE statements, and aggregate functions.
+- **Data Analysis Skills**: Ability to analyze query results to find patterns and insights.
+- **Problem Solving**: Capability to translate real-world business problems into analytical questions that can be solved with data.
+
+### Permissions
+- **Database Credentials**: Required permissions to access and query the database.
+- **Internet Access**: Necessary for accessing online SQL tools or cloud-based databases if applicable.
+
+### Collaboration Tools
+- **Version Control System**: Familiarity with Git for version control if the project involves multiple stages or collaboration with others.
+- **Communication Tools**: Access to email, Slack, or other communication tools for project discussions or in case assistance is required.
+
+### Project Specific Instructions
+- **Exploratory Data Analysis**: Initial analysis focusing on the number of taxi rides for each taxi company and specific queries about weather impacts on ride frequency.
+- **Detailed Analysis**: Deeper insights into ride durations and conditions, especially on how weather conditions affect ride patterns.
