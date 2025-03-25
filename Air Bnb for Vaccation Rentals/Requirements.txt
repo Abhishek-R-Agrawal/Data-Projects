@@ -1,0 +1,16 @@
+## Setup Instructions
+
+### Prerequisites
+- **Microsoft Excel**: Ensure you have the latest version installed as this project utilizes advanced features like pivot tables, data cleaning functions, and complex formulas.
+
+### Data Access
+- **Dataset**: Ensure access to the `nyc_airbnb_data.xlsx` file which contains the raw data needed for the analysis.
+
+### Technical Skills
+- **Excel Data Cleaning Tools**: Be proficient with Excel functions such as `PROPER`, `MROUND`, `SUMIF`, and general data cleaning techniques.
+- **Pivot Table Skills**: Ability to create and manipulate pivot tables is essential for analyzing data to derive insights on neighborhood attractiveness and property profitability.
+
+### Additional Requirements
+- **Internet Access**: Necessary for downloading the data file if not locally available and for accessing any online resources or documentation.
+- **Google Docs**: Access to Google Sheets might be needed for sharing or collaborating on the project.
+- **Analytical Skills**: Ability to interpret data and make informed recommendations based on the analysis.
