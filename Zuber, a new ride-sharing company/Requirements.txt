@@ -3,7 +3,6 @@
 ### Software and Tools
 - **SQL Database Access**: Ability to connect to and query a SQL database, as the project involves complex SQL queries for data extraction and analysis.
 - **SQL Client or Interface**: Use of a SQL client or an integrated development environment (IDE) like DBeaver, pgAdmin, or a similar tool to run SQL queries.
-- **Python (optional)**: For additional data analysis and visualization, Python along with libraries like pandas and matplotlib could be used.
 
 ### Data Access
 - Ensure access to the provided database containing the tables for neighborhoods, cabs, trips, and weather_records essential for the analysis.
