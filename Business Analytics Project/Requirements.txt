@@ -1,0 +1,38 @@
+✅ Project Requirements & Deliverables
+🔄 Conversion Funnel Analysis
+
+Counted unique users across 3 funnel stages: product views, cart additions, and purchases
+
+Calculated total and step-by-step conversion rates using pivot tables and formulas
+
+📦 Cohort Data Preparation
+
+Filtered raw logs to isolate purchase events (4,845 entries)
+
+Created a separate purchase activity sheet for focused analysis
+
+Calculated each user’s first purchase date via pivot table
+
+Used VLOOKUP() to map first purchase dates back into the activity log
+
+🗓️ Cohort Structuring
+
+Created event_month, first_purchase_month, and cohort_age columns
+
+Applied TEXT() for monthly formatting and DATEDIF() for cohort age in months
+
+📊 Cohort Analysis & Retention Rates
+
+Built pivot tables to group users by cohort and calculate monthly retention
+
+Created a retention matrix showing cohort longevity (0 to 4 months)
+
+Used fixed references in formulas to auto-calculate retention rates per cohort
+
+🧾 Executive Summary & Documentation
+
+Summarized key insights from the conversion funnel and retention metrics
+
+Explained data sources, methodology, and assumptions clearly
+
+Reordered and labeled all sheets, added table of contents, and formatted the spreadsheet for professional presentation
